@@ -81,19 +81,11 @@ public:
     T& operator [](unsigned index); //Set METHOD - Used to set the values
 
     T operator [](unsigned index) const; //GET METHOD - Returns the value using overloading of [] operator
-private: //Usually Doxygen comments are NOT added for private variables, but for the sake of learning, they are here
-        /**
-        * @param  unsigned vecSize - Size of the vector
-        */
+private:
     unsigned vecSize; //Size of the vector
 
-        /**
-        * @param  unsigned elementAmount - The current number of elements in the vector
-        */
     unsigned elementAmount; //The current number of elements in the vector
-        /**
-        * @param  unsigned vecSizeMultiplier - The multiplier used to adjust the vector resizing
-        */
+
     unsigned vecSizeMultiplier; //The multiplier used to adjust the vector resizing
 };
 
