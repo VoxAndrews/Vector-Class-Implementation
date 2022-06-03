@@ -150,34 +150,19 @@ public:
     * @return void
     */
   void SetCoordPhoneNum( string tmpCoordPhoneNum );
-private: //Usually Doxygen comments are NOT added for private variables, but for the sake of learning, they are here
-    /**
-    * @param  string name - The name of a given unit
-    */
+private:
   std::string name;  // Unit name
-    /**
-    * @param  string id - The ID Number of a given unit
-    */
+
   std::string id;   // Unit ID Number
-    /**
-    * @param  int credits - The number of credits in a unit
-    */
+
   int  credits;   // Number of Credits
-    /**
-    * @param  string coordName - The Unit Coordinator's name
-    */
+
   std::string coordName;   // Unit Coordinator's Name
-    /**
-    * @param  string coordRoomNum - The Unit Coordinator's room number
-    */
+
   std::string coordRoomNum;   // Unit Coordinator's Room Number
-    /**
-    * @param  string coordEmail - The Unit Coordinator's email address
-    */
+
   std::string coordEmail;   // Unit Coordinator's Email Address
-    /**
-    * @param  string coordPhoneNum - The Unit Coordinator's phone number
-    */
+
   std::string coordPhoneNum;   // Unit Coordinator's Phone Number
 };
 
