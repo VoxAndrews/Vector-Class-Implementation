@@ -141,26 +141,15 @@ public:
     * @return void
     */
   void SetCount(unsigned cou);
-private: //Usually Doxygen comments are NOT added for private variables, but for the sake of learning, they are here
-    /**
-    * @param  long studentId - An ID number for an individual student
-    */
+private:
   long studentId;
-    /**
-    * @param  unsigned semester - The semester in which the units were run
-    */
+
   unsigned semester;
-    /**
-    * @param  unsigned count - The number of units being shown
-    */
+
   unsigned count;
-    /**
-    * @param  Results results[] - An array of Unit results and their associated data
-    */
+
   Vector<Results> results;
-    /**
-    * @param  map<long, string> studentIdentifier - A map to store a Student ID (Key - long), and the associated Student Name (Element - string)
-    */
+
   map<long, string> studentIdentifier;
 };
 
