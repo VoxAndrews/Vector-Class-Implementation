@@ -41,10 +41,7 @@ public:
     * @return void
     */
   void SetMonthFormatted( unsigned tmpMonth );
-private: //Usually Doxygen comments are NOT added for private variables, but for the sake of learning, they are here
-    /**
-    * @param  unsigned monthValue - The value of the month which will be taken and used to convert to a string
-    */
+private:
   unsigned monthValue;
 };
 
