@@ -80,18 +80,11 @@ public:
     * @return void
     */
   void SetYear( unsigned tmpYear );
-private: //Usually Doxygen comments are NOT added for private variables, but for the sake of learning, they are here
-    /**
-    * @param  unsigned day - The value of the day the mark was given
-    */
+private:
   unsigned day; //Stores a day value (Day that the result was set)
-    /**
-    * @param  unsigned month - The value of the month the mark was given
-    */
+    
   unsigned month; //Stores a Month value (Month that the result was set)
-    /**
-    * @param  unsigned year - The value of the year the mark was given
-    */
+
   unsigned year; //Stores a Year value (Year that the result was set)
 };
 
