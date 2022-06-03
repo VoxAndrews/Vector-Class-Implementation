@@ -1,0 +1,53 @@
+Student ID: 32926762
+Student Name: Darcy Wilson
+Semester: 2
+  Unit ID: ICT201
+  Unit Name: IT Project Managment
+  Credits: 3
+  -----------------------------------------
+  Coordinator Name: David Tenant
+  Coordinator Room: 250.3.023
+  Coordinator Email: email1@murdoch.edu.au
+  Coordinator Phone: +61 8 9111 1111
+  -----------------------------------------
+  Marks: 76
+  Date: 2 March 2022
+
+  Unit ID: ICT283
+  Unit Name: Data Structures & Abstractions
+  Credits: 2
+  -----------------------------------------
+  Coordinator Name: Shri Rai
+  Coordinator Room: SC 1.019 (245.1.019)
+  Coordinator Email: email2@murdoch.edu.au
+  Coordinator Phone: +61 8 9222 2222
+  -----------------------------------------
+  Marks: 95
+  Date: 14 June 2022
+
+  Unit ID: ICT289
+  Unit Name: Computer Graphics Principles and Programming
+  Credits: 4
+  -----------------------------------------
+  Coordinator Name: Hamid Laga
+  Coordinator Room: 245.1.020
+  Coordinator Email: email3@murdoch.edu.au
+  Coordinator Phone: +61 8 9333 3333
+  -----------------------------------------
+  Marks: 54
+  Date: 23 October 2022
+
+  Unit ID: CRE312
+  Unit Name: Creative Media Projects II
+  Credits: 3
+  -----------------------------------------
+  Coordinator Name: Brad Power
+  Coordinator Room: EH3.049
+  Coordinator Email: email4@murdoch.edu.au
+  Coordinator Phone: +61 8 9444 4444
+  -----------------------------------------
+  Marks: 75
+  Date: 11 July 2022
+
+Number of courses = 4
+Total credits     = 12
