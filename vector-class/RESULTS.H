@@ -99,18 +99,11 @@ public:
     * @return void
     */
   void SetDate(const Date &tmpDate);
-private: //Usually Doxygen comments are NOT added for private variables, but for the sake of learning, they are here
-    /**
-    * @param  Unit inUnit - A temporary Unit object, used to get the unit data
-    */
+private:
   Unit inUnit; //Single Unit object
-    /**
-    * @param  Date inDate - A temporary Date object, used to get the date data for a unit
-    */
+
   Date inDate; //Single Date object
-    /**
-    * @param  float marks - The marks given to a student for a unit
-    */
+
   float marks; //Unit results
 };
 
