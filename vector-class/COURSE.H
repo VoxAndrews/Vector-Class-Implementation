@@ -58,7 +58,9 @@ public:
 
 private:
   std::string name;  // course name
+    
   char section;   // section (letter) can be enrolment mode
+    
   int  credits;   // number of credits
 };
 
