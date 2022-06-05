@@ -1,4 +1,4 @@
-# ICT283-Vector-Class-Implementation
+# Vector-Class-Implementation
 
 THIS HAS BEEN MADE USING CODEBLOCKS
 
